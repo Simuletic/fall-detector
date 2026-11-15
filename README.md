@@ -15,7 +15,7 @@ staged footage from homes it has never seen.
 *Synthetic training data (Simuletic). Red = `fallen_person`, blue = `person`.*
 
 - **Weights and model card:** [huggingface.co/Simuletic/fall-detector](https://huggingface.co/Simuletic/fall-detector) (D-FINE Nano, recommended; D-FINE Small; ONNX for both)
-- **Try it:** [Hugging Face Space](https://huggingface.co/spaces/Simuletic/fall-detector) · [Kaggle notebook on a real test set](https://www.kaggle.com/code/simuletic/fall-detection-on-real-footage-trained-only-on-synthetic-data)
+- **Try it:** [Hugging Face Space](https://huggingface.co/spaces/Simuletic/fall-detector) · [Kaggle notebook on a real test set](https://www.kaggle.com/code/simuletic/fall-detection-on-real-footage-synthetic-trained)
 - **Licence:** **Code:** [Apache-2.0](LICENSE). **Model weights** (on Hugging Face and Kaggle): CC BY-NC 4.0, non-commercial research and evaluation only. See [Commercial use](#commercial-use-and-the-pro-model).
 
 ## Results on real footage (mean of 2 seeds, never the best one)
